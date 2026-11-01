@@ -1,0 +1,10 @@
+{
+  "enabled": true,
+  "live_chat": true,
+  "session_id": "5fbf4c4f-181a-40f1-9410-8e7403c758f1",
+  "voice": "en-US-AvaMultilingualNeural",
+  "rate": "+8%",
+  "max_chars": 380,
+  "listen_timeout": 25,
+  "silence_duration": 2.2
+}
